@@ -74,3 +74,4 @@ local_settings.py
 
 #templates-maker
 sources-web/
+key.txt
